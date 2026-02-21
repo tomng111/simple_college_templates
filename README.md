@@ -5,3 +5,25 @@ These templates are used to build the complete projects according to the Lab-Han
 Every branch has its own link to the main repository, just in case you need more explanation or I forget to upload here. <br />
 Hope you could find them interesting. Have a nice day!<br />
 ## Branches<br />
+- arduino
+- automotive
+- cad
+- computer_vision
+- csharp
+- cuda
+- embedded_communication
+- embedded_sensor
+- embedded_system
+- esp32
+- gis
+- industrial_devices
+- industrial_networks
+- industrial_robots
+- industrial_sensors
+- labview
+- matlab
+- pic
+- plc
+- power
+- python
+- ros
