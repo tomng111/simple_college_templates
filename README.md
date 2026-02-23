@@ -9,6 +9,7 @@ Hope you could find them interesting. Have a nice day!<br />
 - automotive
 - cad
 - computer_vision
+- cpp
 - csharp
 - cuda
 - embedded_communication
