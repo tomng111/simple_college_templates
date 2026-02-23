@@ -26,4 +26,6 @@ Hope you could find them interesting. Have a nice day!<br />
 - plc
 - power
 - python
+- raspberry
 - ros
+- stm32
